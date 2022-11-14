@@ -20,7 +20,9 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNIGAME_REMOTE_CONFIGURATION"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }
