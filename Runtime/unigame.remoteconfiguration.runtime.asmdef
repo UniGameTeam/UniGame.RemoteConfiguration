@@ -21,7 +21,7 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [
-        "UNIGAME_REMOTE_CONFIGURATION"
+        "FIREBASE_ENABLED"
     ],
     "versionDefines": [],
     "noEngineReferences": false
